@@ -4,4 +4,4 @@ http://podrivo.com/cigs/
 Ceci n'est pas une cig.
 
 ## par
-[jonas](http://bebopstudio.com.br) ey [peruibe](http://podrivo.com)
+[jonas](http://bebopstudio.com.br) et [peruibe](http://podrivo.com)
