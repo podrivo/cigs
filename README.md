@@ -1,5 +1,5 @@
 # cigs
-http://podrivo.com/shorts/cigs/
+http://podrivo.com/doodles/cigs/
 
 Ceci n'est pas une cig.
 
